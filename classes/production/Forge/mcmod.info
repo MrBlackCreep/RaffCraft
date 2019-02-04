@@ -1,0 +1,16 @@
+[
+{
+  "modid": "raffcraft",
+  "name": "Raff Craft",
+  "description": "Testing Enviroment",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Raff Skystrike"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
